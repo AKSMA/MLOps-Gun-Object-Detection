@@ -1,0 +1,28 @@
+2025-05-22 15:45:04,418 - INFO - Data Processing Initialized
+2025-05-22 15:45:04,419 - INFO - Loading Image and Label 0
+2025-05-22 15:45:04,419 - INFO - Image Path : artifacts/raw\Images1.jpeg 
+2025-05-22 15:45:04,440 - ERROR - Error in loading image and label 0: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-22 15:45:41,956 - INFO - Data Processing Initialized
+2025-05-22 15:45:41,956 - INFO - Loading Image and Label 0
+2025-05-22 15:45:41,956 - INFO - Image Path : artifacts/raw\Images1.jpeg 
+2025-05-22 15:45:41,962 - ERROR - Error in loading image and label 0: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-22 15:53:25,524 - INFO - Data Processing Initialized
+2025-05-22 15:53:25,524 - INFO - Loading Image and Label 0
+2025-05-22 15:53:25,524 - INFO - Image Path : artifacts/raw\Images1.jpeg 
+2025-05-22 15:53:25,550 - ERROR - Error in loading image and label 0: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-22 15:54:46,928 - INFO - Data Processing Initialized
+2025-05-22 15:54:46,928 - INFO - Loading Image and Label 0
+2025-05-22 15:54:46,928 - INFO - Image Path : artifacts/raw\Images1.jpeg 
+2025-05-22 15:54:46,932 - ERROR - Error in loading image and label 0: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-22 16:01:01,494 - INFO - Data Processing Initialized
+2025-05-22 16:01:01,494 - INFO - Loading Image and Label 0
+2025-05-22 16:01:01,494 - INFO - Image Path : D:/ML_Ops/ML_OPS_project_4/artifacts/raw\Images1.jpeg 
+2025-05-22 16:01:01,510 - ERROR - Error in loading image and label 0: OpenCV(4.11.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-05-22 16:02:13,339 - INFO - Data Processing Initialized
+2025-05-22 16:02:13,339 - INFO - Loading Image and Label 0
+2025-05-22 16:02:13,339 - INFO - Image Path : D:/ML_Ops/ML_OPS_project_4/artifacts/raw\Images\1.jpeg 
